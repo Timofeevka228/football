@@ -1,4 +1,3 @@
-telebot
-types
+pyTelegramBotAPI
 random
 os
